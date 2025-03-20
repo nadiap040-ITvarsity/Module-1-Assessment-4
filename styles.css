@@ -1,0 +1,24 @@
+h1{
+    color:#d16ef0;
+    
+}
+img{
+    width: 150px;
+    height: auto;
+    
+}
+.column img{
+    width: 100%;
+    height: auto;
+}
+td{
+    text-align-last: center;
+}
+table{
+    border-color: black
+    
+}
+th{
+    color:darkmagenta
+    
+}
