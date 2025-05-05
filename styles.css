@@ -1,24 +1,16 @@
 h1{
     color:#d16ef0;
+    text-align-last: center;
     
-}
-img{
-    width: 150px;
-    height: auto;
-    
-}
-.column img{
-    width: 100%;
-    height: auto;
 }
 td{
-    text-align-last: center;
+    text-align-last:left;
 }
 table{
-    border-color: black
+    border-color: black;
     
 }
 th{
-    color:darkmagenta
+    color:darkmagenta;
     
 }
